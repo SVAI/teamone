@@ -353,9 +353,6 @@ If you need to install any packages that are not intitally installed (anything i
 
 ---
 
-<div align="right">
-    <b><a href="#contents">↥ </a></b>
-</div>
 
 ## Members
 
